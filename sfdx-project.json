@@ -1,0 +1,17 @@
+{
+    "packageDirectories": [
+        {
+            "path": "TestModuleDX",
+            "default": true,
+            "package": "TestModuleDX",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "45.0",
+    "packageAliases": {
+        "TestModuleDX": "0Ho1U000000Kyr5SAC"
+    }
+}
